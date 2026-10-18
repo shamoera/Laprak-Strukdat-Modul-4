@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 4 - Singly Linked</h1>
+# <h1 align="center">Laporan Praktikum Modul 4 - SINGLY LINKED LIST (BAGIAN PERTAMA)</h1>
 <p align="center">Shafira Shifa Azahra - 109082500125</p>
 
 ## Dasar Teori
